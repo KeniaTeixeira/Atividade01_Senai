@@ -1,6 +1,6 @@
 # Atividade 01 Senai 
-##*PROGRAMAÇÃO DE APLICATIVOS* \
-##*INSTRUTOR: RODOLFO CLEPF DE CARVALHO*\
+## PROGRAMAÇÃO DE APLICATIVOS\
+## INSTRUTOR: RODOLFO CLEPF DE CARVALHO\
 Atividade desenvolvida para o curso desenvolvimento de sistema do SENAI CTTI, instruida pelo pofessor Rodolfo
 
 #
